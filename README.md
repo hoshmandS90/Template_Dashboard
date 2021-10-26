@@ -6,6 +6,6 @@
 [![GitHub release](https://img.shields.io/github/release/kubernetes/dashboard.svg)](https://github.com/kubernetes/dashboard/releases/latest)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/kubernetes/dashboard/blob/master/LICENSE)
 
-Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters. It allows users to manage applications running in the cluster and troubleshoot them, as well as manage the cluster itself.
+This is a dashboard design here, the side bar design is made of dark mode, as well as you can manage all of the thing that from here .
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/90029989/138866682-3685b37c-a0cd-4972-849a-272df82fef25.png)
