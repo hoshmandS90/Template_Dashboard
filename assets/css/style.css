@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'rudaw';
+  src: url('../fonts/rudaw.ttf');
+}
+
+* {
+  font-family: 'rudaw' !important;
+}
+
+/* NO NEED THIS CSS - just for custom scrollbar which can also be configured in tailwind.config.js*/
+::-webkit-scrollbar {
+  width: 5px !important;
+  height: 2px !important;
+}
+
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2d3748;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2b6cb0;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: #000000;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a202c;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-track:hover {
+  background: #666666;
+}
+
+::-webkit-scrollbar-track:active {
+  background: #333333;
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+.radius-10 {
+  border-radius: 10px !important;
+}
+
+.radius-20 {
+  border-radius: 20px !important;
+}
