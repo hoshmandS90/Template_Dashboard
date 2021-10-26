@@ -10,5 +10,4 @@
 
 Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters. It allows users to manage applications running in the cluster and troubleshoot them, as well as manage the cluster itself.
 
-![Dashboard UI workloads page](docs/images/dashboard-ui.png)
-
+![Screenshot (3)](https://user-images.githubusercontent.com/90029989/138866682-3685b37c-a0cd-4972-849a-272df82fef25.png)
