@@ -9,3 +9,10 @@
 This is a dashboard design here, the side bar design is made of dark mode, as well as you can manage all of the thing that from here .
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/90029989/138866682-3685b37c-a0cd-4972-849a-272df82fef25.png)
+
+
+ This is a form design here
+
+![Screenshot (4)](https://user-images.githubusercontent.com/90029989/139114141-3a5d0a9a-040b-4611-a714-e60ab86f3079.png)
+
+
